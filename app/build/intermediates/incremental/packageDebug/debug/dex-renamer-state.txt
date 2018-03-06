@@ -1,0 +1,4 @@
+#Tue Mar 06 14:50:44 ICT 2018
+base.0=D\:\\Kuliah Josh\\File Kuliah\\6 Pengembangan Aplikasi Mobile\\Scorekeeper\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Mar 06 14:50:44 ICT 2018
+0.baseType=DIRECTORY
+0.base=D\:\\Kuliah Josh\\File Kuliah\\6 Pengembangan Aplikasi Mobile\\Scorekeeper\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
